@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 My Github Stats
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=github_dark)  -->
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliMuhammadAsad&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliMuhammadAsad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiyaalizaidi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiyaalizaidi&theme=github_dark)
 <!-- vision_friendly_dark  -->
 
 <br>
