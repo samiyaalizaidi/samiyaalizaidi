@@ -7,6 +7,19 @@ Here are some ideas to get you started:
 
 My Github Stats
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliMuhammadAsad&theme=github_dark)  -->
+
+<div align='left'>
+<p align="left"> 
+   Visitor count:
+   <img src="https://profile-counter.glitch.me/samiyaalizaidi/count.svg" align="center"/> 
+ </p></div>
+
+ <p align="left">
+  <a href="https://github.com/AliMuhammadAsad">
+    <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
+  </a>
+ </p>
+
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiyaalizaidi&theme=github_dark)
