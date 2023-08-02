@@ -23,7 +23,7 @@
 <br/> 
 
 <a href="https://github.com/samiyaalizaidi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=BD07F7&ic=fff&bc=0000">
 </a>
 
 
