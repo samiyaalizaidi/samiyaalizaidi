@@ -44,7 +44,7 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiyaalizaidi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiyaalizaidi&theme=dracula&color=BD07F7) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiyaalizaidi&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiyaalizaidi&theme=dracula)
