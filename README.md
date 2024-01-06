@@ -7,7 +7,7 @@
 <!--<a href="https://medium.com">
     <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
 </a>  -->
-<a href="https://drive.google.com/file/d/1dicoOR0Z5JC_lkgyU47cokOJrBte-a2o/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1jwKYIzjb4GB_36Pz1_T_sRFzyEZ1YR0c/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/samiya-ali-zaidi">
