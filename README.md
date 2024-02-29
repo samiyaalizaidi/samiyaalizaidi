@@ -50,6 +50,7 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiyaalizaidi&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiyaalizaidi&theme=dracula)
 
+![](https://streak-stats.demolab.com/?user=samiyaalizaidi&theme=midnight-purple)
 
 <br>
 Currently Coding and Listening to:
