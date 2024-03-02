@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/samiyaalizaidi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=A177FF&center=true&multiline=true&width=650&height=80&lines=Samiya+Ali+Zaidi;Researcher+%7C+Undergraduate+Student+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Samiya+Ali+Zaidi;Researcher+%7C+Undergraduate+Student+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -23,7 +23,7 @@
 <br/> 
 
 <a href="https://github.com/samiyaalizaidi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=A177FF&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
 </a>
 
 
