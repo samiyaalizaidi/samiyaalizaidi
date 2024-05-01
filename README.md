@@ -4,29 +4,36 @@
 </a>
 <br/>
 
-<!--<a href="https://medium.com">
-    <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
-</a>  -->
+<!-- badges -->
 <a href="https://drive.google.com/file/d/1LAVPQyLbGrTPm6C6ZSJrI5wmRyzUE6s8/view?usp=sharing">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat&logo=adobe">
 </a>  
+
 <a href="https://www.linkedin.com/in/samiya-ali-zaidi">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin">
 </a>
-<a href="mailto:samiyaalizaidi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+
+<a href="mailto:samiyaalizaidi@gmail.com"  target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white">
 </a>
+
 <a href='https://scholar.google.com/citations?hl=en&user=0ugruG4AAAAJ&view_op=list_works&authuser=1&gmla=ABOlHixnBPP7J8GOk3pR6hesA9iOj5u5Sf8U8L-zg0tT0NLpEQl5I2Z6u5NI544RVPBrpP4zrDVdWF2mdMpCKKVF' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> 
 
+<a href="https://orcid.org/0009-0008-1907-1542">
+    <img src="https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white"
+</a> 
+
 <br/> 
+
+<!--card -->
 
 <a href="https://github.com/samiyaalizaidi">
     <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
 </a>
 
-
+<!-- interests -->
 
 </p>
 
