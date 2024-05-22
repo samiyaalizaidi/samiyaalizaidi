@@ -5,7 +5,7 @@
 <br/>
 
 <!-- badges -->
-<a href="Resume - Samiya Ali Zaidi.pdf">
+<a href="https://drive.google.com/file/d/1wzJIh_gm20-Wo788ev1ge6cl_znqnX9u/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat&logo=adobe">
 </a>  
 
