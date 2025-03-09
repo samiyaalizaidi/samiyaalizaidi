@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently exploring the domains of Deep Learning, Computer Vision, and Embedded Systems
 - 👯 I’m looking forward to collaborating with other content creators.
-- 🥅 2024 Goals: Learn more about Computer Vision, especially Vision Transformers and GANs.
+- 🥅 2025 Goals: Learn more about LLMs and Computer Vision, especially LVMs.
 - ⚡ Fun fact: I love to work on Digital Systems.
 - 📖 🇵🇰 Doing a Bachelor's in Computer Engineering from Habib University.
 - 📖 🇺🇸 Exchange student at Kennesaw State University, GA, on a Department of State-sponsored program.
