@@ -35,54 +35,49 @@
 
 # Hi, I'm Samiya 👋
 
-I'm an **MS Computer Engineering student** interested in the intersection of **machine learning, AI systems, and computer architecture**.
+I'm an **MS Computer Engineering student at George Washington University**, concentrating in **Machine Learning & Intelligent Systems** as a **Fulbright Scholar**.
 
-My background spans **deep learning and computer vision research, digital and analog hardware design, and software engineering**. I'm particularly interested in **efficient AI, hardware-software co-design, and neuromorphic computing**.
+My background spans **machine learning and computer vision research, software engineering, and low-power hardware design**. I'm interested in building efficient intelligent systems at the intersection of **machine learning, computer architecture, and hardware**.
 
 ## 🔭 Currently
 
-* 🎓 Pursuing an **MS in Computer Engineering**
+* 🎓 Pursuing an **MS in Computer Engineering — ML & Intelligent Systems**
 * 🧠 Exploring **machine learning, AI systems, and computer architecture**
-* ⚡ Interested in **efficient AI, AI acceleration, and neuromorphic computing**
-* 💻 Building my portfolio through research, coursework, and independent projects
+* ⚡ Interested in **efficient AI, AI hardware, and neuromorphic computing**
+* 💻 Building systems across **ML, software, and hardware**
 
-## 🔬 Research Interests
+## 🔬 Research
 
-* **Machine Learning & Deep Learning**
-* **Computer Vision**
-* **Efficient AI & AI Hardware**
-* **Computer Architecture**
-* **Neuromorphic Computing**
-* **Hardware-Software Co-design**
+My research experience includes **deep learning and computer vision**, with work in camouflaged object detection, agricultural pest monitoring, gaze estimation, and assistive technology.
+
+I've also worked on **low-power hardware design**, including CMOS circuit design and simulation using the **SkyWater 130nm PDK**.
+
+## 💼 Engineering
+
+Previously a **Software Engineer at Conrad Labs**, where I worked on a US healthcare platform and production backend systems.
+
+I designed and shipped an **AI-powered outbound calling platform** with vendor-agnostic AI integrations and asynchronous workflows using AWS services including **SQS, ECS, Lambda, and CloudWatch**. The platform reduced outbound calling costs by **11×** and manual outreach by **80%**.
 
 ## 🛠️ Technologies
 
-**Languages:** Python · C/C++ · Java · Verilog · SQL
+**Languages:** Python · C/C++ · Java · JavaScript · Verilog · MATLAB · SQL
 
 **ML & AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV
 
-**Hardware & Systems:** Computer Architecture · Digital Design · FPGA · CMOS · Cadence Virtuoso
+**Systems & Hardware:** Linux · Docker · AWS · FPGA · CMOS · Cadence Virtuoso · Vivado
 
-**Tools & Platforms:** Linux · Git · Docker · AWS · PostgreSQL
+**Databases:** PostgreSQL · MS SQL · MongoDB
 
-## 📚 Background
+## 🎓 Education
 
-**MS in Computer Engineering**
-George Washington University · 2026–Present
+**MS Computer Engineering** — George Washington University
+*ML & Intelligent Systems · Fulbright Scholar · Excellence Award Recipient · 2026–2028*
 
-**BS in Computer Engineering**
-Habib University · 2021–2025 · Dean's Medalist
+**BS Computer Engineering** — Habib University
+*Dean's Medal · Research Achievement Award · 2021–2025*
 
-**UGRAD-Pakistan Exchange Program**
-Kennesaw State University · Fall 2023
-
-## 📄 Research & Publications
-
-My undergraduate research focused on **computer vision and deep learning**, including camouflaged object detection, agricultural pest detection, and gaze estimation.
-
-I have also worked on **low-power hardware design**, exploring area- and power-efficient switching architectures using CMOS technology.
-
-[ORCID] · [Google Scholar] · [LinkedIn]
+**UGRAD Exchange** — Kennesaw State University
+*4.0/4.0 GPA · President's List · 2023*
 
 ---
 
