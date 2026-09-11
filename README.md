@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/samiyaalizaidi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Samiya+Ali+Zaidi;Researcher+%7C+Undergraduate+Student+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=9745F5&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Samiya+Ali+Zaidi;Machine+Learning+%26+AI+Systems+%7C+Computer+Architecture+%7C++Efficient+AI+%2F+Neuromorphic+Computing" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -33,41 +33,57 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
 </a>
 
-<!-- interests -->
+# Hi, I'm Samiya 👋
 
-</p>
+I'm an **MS Computer Engineering student** interested in the intersection of **machine learning, AI systems, and computer architecture**.
 
-- 🌱 I’m currently exploring the domains of Deep Learning, Computer Vision, and Embedded Systems
-- 👯 I’m looking forward to collaborating with other content creators.
-- 🥅 2025 Goals: Learn more about LLMs and Computer Vision, especially LVMs.
-- ⚡ Fun fact: I love to work on Digital Systems.
-- 📖 🇵🇰 Graduated with a Bachelor's in Computer Engineering from Habib University.
-- 📖 🇺🇸 Exchange student at Kennesaw State University, GA, on a Department of State-sponsored program.
+My background spans **deep learning and computer vision research, digital and analog hardware design, and software engineering**. I'm particularly interested in **efficient AI, hardware-software co-design, and neuromorphic computing**.
 
-----
+## 🔭 Currently
 
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-<br>
+* 🎓 Pursuing an **MS in Computer Engineering**
+* 🧠 Exploring **machine learning, AI systems, and computer architecture**
+* ⚡ Interested in **efficient AI, AI acceleration, and neuromorphic computing**
+* 💻 Building my portfolio through research, coursework, and independent projects
 
+## 🔬 Research Interests
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiyaalizaidi&theme=aura) 
+* **Machine Learning & Deep Learning**
+* **Computer Vision**
+* **Efficient AI & AI Hardware**
+* **Computer Architecture**
+* **Neuromorphic Computing**
+* **Hardware-Software Co-design**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiyaalizaidi&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiyaalizaidi&theme=aura)
+## 🛠️ Technologies
 
+**Languages:** Python · C/C++ · Java · Verilog · SQL
 
-![](https://streak-stats.demolab.com/?user=samiyaalizaidi&theme=midnight-purple)
+**ML & AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV
 
+**Hardware & Systems:** Computer Architecture · Digital Design · FPGA · CMOS · Cadence Virtuoso
 
-<br>
-Currently Coding and Listening to:
+**Tools & Platforms:** Linux · Git · Docker · AWS · PostgreSQL
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3157ydsm2trbklsw7xieue57ckky) -->
+## 📚 Background
 
+**MS in Computer Engineering**
+George Washington University · 2026–Present
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3157ydsm2trbklsw7xieue57ckky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+**BS in Computer Engineering**
+Habib University · 2021–2025 · Dean's Medalist
 
-</details>
+**UGRAD-Pakistan Exchange Program**
+Kennesaw State University · Fall 2023
+
+## 📄 Research & Publications
+
+My undergraduate research focused on **computer vision and deep learning**, including camouflaged object detection, agricultural pest detection, and gaze estimation.
+
+I have also worked on **low-power hardware design**, exploring area- and power-efficient switching architectures using CMOS technology.
+
+[ORCID] · [Google Scholar] · [LinkedIn]
+
+---
+
+*Always learning, building, and exploring at the intersection of AI and computing.*
