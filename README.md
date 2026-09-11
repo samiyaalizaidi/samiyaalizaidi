@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/samiyaalizaidi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=9745F5&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Samiya+Ali+Zaidi;Machine+Learning+%26+AI+Systems+%7C+Computer+Architecture+%7C++Efficient+AI+%2F+Neuromorphic+Computing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=9745F5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Samiya+Ali+Zaidi;Machine+Learning+%26+AI+Systems+%7C+Computer+Architecture+%7C++Efficient+AI" alt="Typing SVG" />
 </a>
 <br/>
 
