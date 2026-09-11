@@ -37,12 +37,12 @@
 
 I'm an **MS Computer Engineering student at George Washington University**, concentrating in **Machine Learning & Intelligent Systems** as a **Fulbright Scholar**.
 
-My background spans **machine learning and computer vision research, software engineering, and low-power hardware design**. I'm interested in building efficient intelligent systems at the intersection of **machine learning, computer architecture, and hardware**.
+My background spans **machine learning and computer vision research, software engineering, and low-power hardware design**.I'm interested in building efficient intelligent systems across machine learning, systems, computer architecture, and hardware.
 
 ## 🔭 Currently
 
 * 🎓 Pursuing an **MS in Computer Engineering — ML & Intelligent Systems**
-* 🧠 Exploring **machine learning, AI systems, and computer architecture**
+* 🧠 Focused on **machine learning, AI systems, and computer architecture**
 * ⚡ Interested in **efficient AI, AI hardware, and neuromorphic computing**
 * 💻 Building systems across **ML, software, and hardware**
 
@@ -64,7 +64,7 @@ I designed and shipped an **AI-powered outbound calling platform** with vendor-a
 
 **ML & AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV
 
-**Systems & Hardware:** Linux · Docker · AWS · FPGA · CMOS · Cadence Virtuoso · Vivado
+**Systems & Hardware:** Linux · Docker · AWS · FPGA · RTL/Verilog · Cadence Virtuoso · Vivado
 
 **Databases:** PostgreSQL · MS SQL · MongoDB
 
